@@ -1,1 +1,1 @@
-# Lexical-Analyzer-Detect-token-in-C-
+# Lexical-Analyzer-Or-Detect-Token-in-C-
